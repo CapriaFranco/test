@@ -14,6 +14,6 @@
 
 <img src="folder-2af1f1.svg" style="color:red;border-color:#00f;background-color:#fff;width:32px;height:32px;"/>
 
-<img src="folder.svg" style="stoke:#f0f;color:red;border-color:#00f;background-color:#fff;width:48px;height:48px;"/>
+<img src="folder.svg" style="stroke:#f0f;color:red;border-color:#00f;background-color:#fff;width:48px;height:48px;"/>
 
 #  Autor
