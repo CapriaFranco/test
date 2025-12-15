@@ -25,6 +25,7 @@
   <img src="history-2af1f1.svg" style="width:48px;height:48px;" />
   <img src="info-2af1f1.svg" style="width:48px;height:48px;" />
   <img src="instagram-2af1f1.svg" style="width:48px;height:48px;" />
+  <img src="languages-2af1f1.svg" style="width:48px;height:48px;" />
   <img src="link-2af1f1.svg" style="width:48px;height:48px;" />
   <img src="log-in-2af1f1.svg" style="width:48px;height:48px;" />
   <img src="log-out-2af1f1.svg" style="width:48px;height:48px;" />
