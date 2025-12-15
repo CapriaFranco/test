@@ -12,4 +12,6 @@
 ![folder](folder-009.svg)
 ![folder](folder-2af1f1.svg)
 
+<img src="folder-2af1f1.svg" style="color:red;border-color:#00f;background-color:#fff;width:32px;height:32px;"/>
+
 #  Autor
