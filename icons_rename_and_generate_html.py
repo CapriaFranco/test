@@ -1,10 +1,11 @@
 import os
 
+FOLDER = "icons_docs"
 PATH = "icons_docs/"
 COLOR_SUFFIX = "-2af1f1"
 EXT = ".svg"
 
-folder = os.getcwd()
+folder = os.path.join(os.getcwd(), FOLDER)
 lines = []
 
 # 1. Renombrar archivos
